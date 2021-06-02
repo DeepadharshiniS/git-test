@@ -6,5 +6,8 @@ public class Sample1 {
 		// TODO Auto-generated method stub
 
 	}
+	public void add() {
+	// TODO Auto-generated method stub
 
+	}
 }
